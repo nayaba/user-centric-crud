@@ -85,10 +85,10 @@ Features: Users can post reviews for books, edit/delete their own reviews, view 
 User Model: Stores user details.
 Referenced Model: Workout (exercise name, reps, sets, weight, date, user reference).
 Features: Log workouts, view workout history, filter by exercise type.
-3. Recipe Sharing App
+3. Reading List App
 User Model: Stores user details.
-Referenced Model: Recipe (title, ingredients, instructions, user reference).
-Features: Users can add, update, and delete their own recipes, view other users’ recipes.
+Referenced Model: Book (title, author, status: "reading", "completed", user reference).
+Features: Users can track books they want to read, mark books as completed.
 4. Movie Reviews App
 User Model: Stores user details.
 Referenced Model: Review (movie title, review content, rating, user reference).
@@ -113,7 +113,4 @@ Features: Users can create posts, view posts from other users.
 User Model: Stores user details.
 Referenced Model: Habit (name, frequency, completion history, user reference).
 Features: Users can create habits, track progress over time.
-10. Reading List App
-User Model: Stores user details.
-Referenced Model: Book (title, author, status: "reading", "completed", user reference).
-Features: Users can track books they want to read, mark books as completed.
+
