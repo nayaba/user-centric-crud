@@ -13,8 +13,8 @@
 | GET | /listings | listingsCtrl.index |
 | GET | /listings/new | listingsCtrl.newListing |
 | POST | /listings/:userId | listingsCtrl.createListing |
-| GET | /books/new | booksCtrl.new | View a form for submitting a book (be sure to define this route before the show route)|
-| POST | /books | booksCtrl.create | Handle the new book form being submitted |
+| GET | /listings/:listingId | listingsCtrl.show |
+| DELETE | /listings | listingsCtrl.deleteListing |
 | GET | /books/:id/edit | booksCtrl.edit | View a form for editing a book (restrict to user who submitted the book) |
 | PUT | /books/:id| booksCtrl.update | Handle the edit book form being submitted (restrict to user who submitted the book) |
 | DELETE | /books/:id| booksCtrl.delete | Delete a book (restrict to user who submitted the book) |
