@@ -136,7 +136,7 @@ These are **optional** but add extra value to your project.
 
 ---
 
-[COMPLETED Project Requirements](https://docs.google.com/spreadsheets/d/1pFC-UECiwA1WIAPr8elKyKrO-Cq3-7R7bdsg1R2tDyQ/edit?gid=696206981#gid=696206981)
+View the requirements for the COMPLETED project [here](https://docs.google.com/spreadsheets/d/1pFC-UECiwA1WIAPr8elKyKrO-Cq3-7R7bdsg1R2tDyQ/edit?gid=696206981#gid=696206981)
 
 🔗 **Links to Past Student Examples:**
 
