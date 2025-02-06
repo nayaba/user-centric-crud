@@ -26,7 +26,9 @@ Draw an **ERD** showing your app's **models** and how they **connect**.
 Create a Trello board with these lists:
 
 **MVP User Stories** → Each user story is a **card**  
+
 **Wireframes** → Each wireframe is a **card** (drag image into list) 
+
 **ERD** → Add your ERD as a **card** (drag image into list)
 
 ---
