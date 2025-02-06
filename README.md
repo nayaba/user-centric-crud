@@ -34,9 +34,9 @@ Draw an **ERD** showing your app's **models** and how they **connect**.
 
 ## **Examples of Each Requirement**
 
-### Skyrockit: 
+### Skyrockit: **Applications are __embedded__ in a User model.**
+
 **MVP User Stories**
-**Applications are __embedded__ in a User model.**
 - **As a user, I want to create an application for a job.**
 - **As a user, I want to edit my application if I make a mistake.**
 - **As a user, I want to delete my application if I change my mind.**
@@ -47,9 +47,9 @@ Draw an **ERD** showing your app's **models** and how they **connect**.
 
 ---
 
-### Open House: 
+### Open House: **Listings belong to a User.**
+
 **MVP User Stories**
-**Listings belong to a User.**
 - **As a user, I want to create a listing to sell a house.**
 - **As a user, I want to edit my listing details.**
 - **As a user, I want to delete a listing when the house is sold.**
