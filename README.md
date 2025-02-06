@@ -2,15 +2,17 @@
 
 ## Notes - req.body is form, req.params is URL
 
+## Middleware
+
 ## Example Routing
 
 #### Listings
 
 |HTTP<br>Method|URL<br>Endpoint|Controller<br>Action|Purpose|
 |---|---|---|---|
-| GET | /books | booksCtrl.index | View all the books submitted by the logged in user |
-| GET | /books/all | booksCtrl.allBooks | View all the books regardless of who submitted (use querystring params to perform filtering) |
-| GET | /books/:id | booksCtrl.show | View the details of any book |
+| GET | /listings | listingsCtrl.index |
+| GET | /listings/new | listingsCtrl.newListing |
+| POST | /listings/:userId | listingsCtrl.createListing |
 | GET | /books/new | booksCtrl.new | View a form for submitting a book (be sure to define this route before the show route)|
 | POST | /books | booksCtrl.create | Handle the new book form being submitted |
 | GET | /books/:id/edit | booksCtrl.edit | View a form for editing a book (restrict to user who submitted the book) |
