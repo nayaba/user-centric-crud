@@ -19,20 +19,11 @@ Create wireframes for your app’s **main ejs pages**.
 ### ✅ **3. ERD (Entity Relationship Diagram)**
 Draw an **ERD** showing your app's **models** and how they **connect**.  
 
-
----
-
-## **How to Organize Your Trello Board**
-
-**MVP User Stories** → Each user story is a **card**  
-
-**Wireframes** → Each wireframe is a **card** (drag image into list) 
-
-**ERD** → Add your ERD as a **card** (drag image into list)
-
----
-
 ## **Examples of Each Requirement**
+
+**Wireframe**
+
+<img width="1014" alt="Screenshot 2025-02-06 at 4 50 21 PM" src="https://github.com/user-attachments/assets/6588c834-a61c-440f-801b-930fc6bd844d" />
 
 ### Skyrockit: **Applications are __embedded__ in a User model.**
 
