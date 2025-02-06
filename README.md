@@ -2,6 +2,8 @@
 
 ## Project Planning Requirements
 
+<img width="945" alt="Screenshot 2025-02-06 at 6 16 32 PM" src="https://github.com/user-attachments/assets/cb2aba02-a83a-41c3-8d68-5ddb4d0b9a7f" />
+
 You will submit a **public Trello board** that includes the following:
 
 ### ✅ **1. MVP User Stories 🙋‍♀️**
@@ -16,6 +18,7 @@ Create wireframes for your app’s **main ejs pages**.
 
 ### ✅ **3. ERD (Entity Relationship Diagram) ↔️**
 Draw an **ERD** showing your app's **models** and how they **connect**.  
+
 
 ---
 
