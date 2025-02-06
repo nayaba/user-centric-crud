@@ -46,6 +46,8 @@ Draw an **ERD** showing your app's **models** and how they **connect**.
 
 <img width="1014" alt="Screenshot 2025-02-06 at 4 50 21 PM" src="https://github.com/user-attachments/assets/6588c834-a61c-440f-801b-930fc6bd844d" />
 
+
+
 ---
 
 ### Example ERDS ↔️
