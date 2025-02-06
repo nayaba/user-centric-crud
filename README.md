@@ -6,20 +6,20 @@
 
 You will submit a **public Trello board** that includes the following:
 
-### **1. MVP User Stories**
+### ✅ **1. MVP User Stories**
 Write your **Minimum Viable Product (MVP)** user stories like this:
 
 > **As a** user, **I want** [feature].
 
 
-### **2. Wireframes**
+### ✅ **2. Wireframes**
 Create wireframes for your app’s **main ejs pages**.
 - index.ejs (see all items)
 - new.ejs (form to create item)
 - show.ejs (item detail page)
 - edit.ejs  (form to edit item)
 
-### **3. ERD (Entity Relationship Diagram)**
+### ✅ **3. ERD (Entity Relationship Diagram)**
 Draw an **ERD** showing your app's **models** and how they **connect**.  
 
 
