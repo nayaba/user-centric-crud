@@ -48,6 +48,8 @@ Draw an **ERD** showing your app's **models** and how they **connect**.
 - [Excalidraw](https://excalidraw.com/)
 
 <img width="1014" alt="Screenshot 2025-02-06 at 4 50 21 PM" src="https://github.com/user-attachments/assets/6588c834-a61c-440f-801b-930fc6bd844d" />
+<img width="1014" alt="Screenshot 2025-02-06 at 4 50 21 PM" src="https://github.com/user-attachments/assets/eaaeff45-d59b-43e5-b000-24c89c5a8663" />
+
 
 
 
@@ -135,6 +137,11 @@ These are **optional** but add extra value to your project.
 
 ---
 
-🔗 **Links to Past Student Examples:** [Insert links here]  
+[COMPLETED Project Requirements](https://docs.google.com/spreadsheets/d/1pFC-UECiwA1WIAPr8elKyKrO-Cq3-7R7bdsg1R2tDyQ/edit?gid=696206981#gid=696206981)
+
+🔗 **Links to Past Student Examples:**
+
+[Food Sharing Project](https://food-sharing-project-d4d381d5ecad.herokuapp.com/)
+[iBlog](https://iblog-app-9921fffa6a4a.herokuapp.com/) 
 
 Good luck! 🚀
