@@ -59,6 +59,11 @@ User has many **embedded** applications.
 
 <img width="406" alt="Screenshot 2025-02-06 at 4 01 10 PM" src="https://github.com/user-attachments/assets/9194d4a6-47b3-4bf1-9303-264fc207f5bb" />
 
+<br />
+<br />
+<br />
+<br />
+
 User has many listings.  Listings **reference** the user.
 
 <img width="558" alt="Screenshot 2025-02-06 at 4 06 33 PM" src="https://github.com/user-attachments/assets/8a6eb739-2da6-4637-97fa-50b34a5fbc2b" />
