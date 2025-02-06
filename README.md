@@ -8,8 +8,6 @@ You will submit a **public Trello board** that includes the following:
 
 ### ✅ **1. MVP User Stories**
 
-> **As a** user, **I want** [feature].
-
 
 ### ✅ **2. Wireframes**
 Create wireframes for your app’s **main ejs pages**.
