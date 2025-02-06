@@ -79,35 +79,35 @@ Example: If your app tracks **applications**, replace `resources` with `applicat
 Here are some ideas for projects where a **user owns many** of **one resource**:
 
 - **Book Tracker:** Users save books to read or review.
-  - User model fields: username, password
-  - Book model fields: title, author, status: "reading", "completed", "wishlist"
+  - User: username, password
+  - Book: title, author, status: "reading", "completed", "wishlist"
 - **Workout Logger:** Users save workout history.
-  - User model fields: username, password
-  - Workout model fields: exercise name, reps, sets, date
+  - User: username, password
+  - Workout: exercise name, reps, sets, date
 - **Task Manager:** Users create tasks.
-  - User model fields: username, password
-  - Task model fields: task name, description, due date, completion status
+  - User: username, password
+  - Task: task name, description, due date, completion status
 - **Journal App:** Users create journal entries.
-  - User model fields: username, password
-  - JournalEntry model fields: title, content, date
+  - User: username, password
+  - JournalEntry: title, content, date
 - **Budget Tracker:** Users log (save) expenses.
-  - User model fields: username, password
-  - Expense model fields: amount, category, description, date
+  - User: username, password
+  - Expense: amount, category, description, date
 - **Social Media Mini-app:** Users create text or image posts.
-  - User model fields: username, password
-  - Post model fields: content, image URL
+  - User: username, password
+  - Post: content, image URL
 - **Habit Tracker:** Users track habits.
-  - User model fields: username, password
-  - Habit model fields: name, frequency, completion history
+  - User: username, password
+  - Habit: name, frequency, completion history
 - **Movie Watchlist:** Users save watched movies.
-  - User model fields: username, password
-  - Movie model fields: title, genre, watch status, rating
+  - User: username, password
+  - Movie: title, genre, watch status, rating
 - **Event Planner:** Users create and manage events
-  - User model fields: username, password
-  - Event model fields: description, category, date, attendees
+  - User: username, password
+  - Event: description, category, date, attendees
 - **Daily Mood Tracker:** Users create and manage events
-  - User model fields: username, password
-  - Mood model fields: date, mood, notes
+  - User: username, password
+  - Mood: date, mood, notes
 
 ---
 
