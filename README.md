@@ -21,19 +21,32 @@ Draw an **ERD** showing your app's **models** and how they **connect**.
 
 ## **Examples of Each Requirement**
 
-**Wireframe**
+### User Stories
 
-<img width="1014" alt="Screenshot 2025-02-06 at 4 50 21 PM" src="https://github.com/user-attachments/assets/6588c834-a61c-440f-801b-930fc6bd844d" />
-
-### Skyrockit: **Applications are __embedded__ in a User model.**
-
-**MVP User Stories**
+**Skyrockit User Stories**
 - **As a guest, I want to be able to sign up.**
 - **As a user, I want to sign into my account.**
 - **As a user, I want to create an application for a job.**
 - **As a user, I want to see all my submitted applications.**
 - **As a user, I want to edit my application if I make a mistake.**
 - **As a user, I want to delete my application if I change my mind.**
+
+**Open House User Stories**
+- **As a guest, I want to be able to sign up.**
+- **As a user, I want to sign into my account.**
+- **As a user, I want to create a listing to sell a house.**
+- **As a guest, I want to see everyone's listings.**
+- **As a user, I want to see all my listings.**
+- **As a user, I want to edit my listing details.**
+- **As a user, I want to delete a listing when the house is sold.**
+
+**Wireframes**
+
+<img width="1014" alt="Screenshot 2025-02-06 at 4 50 21 PM" src="https://github.com/user-attachments/assets/6588c834-a61c-440f-801b-930fc6bd844d" />
+
+### Skyrockit: **Applications are __embedded__ in a User model.**
+
+
 
 **Example ERD**  
 <img width="406" alt="Screenshot 2025-02-06 at 4 01 10 PM" src="https://github.com/user-attachments/assets/9194d4a6-47b3-4bf1-9303-264fc207f5bb" />
@@ -42,14 +55,7 @@ Draw an **ERD** showing your app's **models** and how they **connect**.
 
 ### Open House: **Listings belong to a User.**
 
-**MVP User Stories**
-- **As a guest, I want to be able to sign up.**
-- **As a user, I want to sign into my account.**
-- **As a user, I want to create a listing to sell a house.**
-- **As a guest, I want to see everyone's listings.**
-- **As a user, I want to see all my listings.**
-- **As a user, I want to edit my listing details.**
-- **As a user, I want to delete a listing when the house is sold.**
+
 
 
 **Example ERD**  
