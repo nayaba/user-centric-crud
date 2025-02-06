@@ -23,7 +23,6 @@ Draw an **ERD** showing your app's **models** and how they **connect**.
 ---
 
 ## **How to Organize Your Trello Board**
-Create a Trello board with these lists:
 
 **MVP User Stories** → Each user story is a **card**  
 
