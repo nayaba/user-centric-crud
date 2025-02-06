@@ -45,10 +45,9 @@ Draw an **ERD** showing your app's **models** and how they **connect**.
 ### Wireframes 🖥️
 - [Figma.com](https://www.figma.com/)
 - [Draw.io](https://app.diagrams.net/)
-- [Excalidraw](https://excalidraw.com/)
+- [Excalidraw](https://excalidraw.com/) (view a video on how to use [here](https://i.imgur.com/vBuiJgT.gif))
 
 <img width="1014" alt="Screenshot 2025-02-06 at 4 50 21 PM" src="https://github.com/user-attachments/assets/6588c834-a61c-440f-801b-930fc6bd844d" />
-<img width="1014" alt="Screenshot 2025-02-06 at 4 50 21 PM" src="https://github.com/user-attachments/assets/eaaeff45-d59b-43e5-b000-24c89c5a8663" />
 
 
 
@@ -141,7 +140,7 @@ These are **optional** but add extra value to your project.
 
 🔗 **Links to Past Student Examples:**
 
-[Food Sharing Project](https://food-sharing-project-d4d381d5ecad.herokuapp.com/)
-[iBlog](https://iblog-app-9921fffa6a4a.herokuapp.com/) 
+- [Food Sharing Project](https://food-sharing-project-d4d381d5ecad.herokuapp.com/)
+- [iBlog](https://iblog-app-9921fffa6a4a.herokuapp.com/) 
 
 Good luck! 🚀
