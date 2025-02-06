@@ -96,13 +96,13 @@ Here are some ideas for projects where a **user owns many** of **one resource**:
 ---
 
 ## **Stretch Goal User Stories**
-- **As a user, I want to favorite/bookmark a [resource].**
-- **As a user, I want to filter/sort my [resources].**
+- **As a user, I want to favorite a [resource].**
 - **As a user, I want to upload an image for my [resource].**
+- **As a guest, I want to change the site to dark mode.**
+- **As a user, I want to add a comment to a [resource].**
 - **As a user, I want to search for [resources].**
-- **As an admin, I want to delete inappropriate [resources].**
 
-✅ These are **optional** but add extra value to your project.
+These are **optional** but add extra value to your project.
 
 ---
 
