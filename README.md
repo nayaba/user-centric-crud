@@ -1,7 +1,5 @@
 # MEN-Stack Project Planning Guide
 
-## Notes - req.body is form, req.params is URL, render = views directory
-
 ## Project Planning Requirements
 
 You will submit a **public Trello board** that includes the following:
@@ -18,6 +16,8 @@ Create wireframes for your app’s **main ejs pages**.
 
 ### ✅ **3. ERD (Entity Relationship Diagram) ↔️**
 Draw an **ERD** showing your app's **models** and how they **connect**.  
+
+---
 
 ## **Examples of Each Requirement**
 
@@ -78,11 +78,36 @@ Example: If your app tracks **applications**, replace `resources` with `applicat
 
 Here are some ideas for projects where a **user owns many** of **one resource**:
 
-- **Book Tracker:** Users save books to read.
+- **Book Tracker:** Users save books to read or review.
+  - User model fields: username, password
+  - Book model fields: title, author, status: "reading", "completed", "wishlist"
+- **Workout Logger:** Users save workout history.
+  - User model fields: username, password
+  - Workout model fields: exercise name, reps, sets, date
 - **Task Manager:** Users create tasks.
+  - User model fields: username, password
+  - Task model fields: task name, description, due date, completion status
+- **Journal App:** Users create journal entries.
+  - User model fields: username, password
+  - JournalEntry model fields: title, content, date
+- **Budget Tracker:** Users log (save) expenses.
+  - User model fields: username, password
+  - Expense model fields: amount, category, description, date
+- **Social Media Mini-app:** Users create text or image posts.
+  - User model fields: username, password
+  - Post model fields: content, image URL
+- **Habit Tracker:** Users track habits.
+  - User model fields: username, password
+  - Habit model fields: name, frequency, completion history
 - **Movie Watchlist:** Users save watched movies.
-- **Users & Bookmarks:** Users save favorite articles
-- **Users & Events:** Users create and manage events
+  - User model fields: username, password
+  - Movie model fields: title, genre, watch status, rating
+- **Event Planner:** Users create and manage events
+  - User model fields: username, password
+  - Event model fields: description, category, date, attendees
+- **Daily Mood Tracker:** Users create and manage events
+  - User model fields: username, password
+  - Mood model fields: date, mood, notes
 
 ---
 
