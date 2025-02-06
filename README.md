@@ -7,7 +7,6 @@
 You will submit a **public Trello board** that includes the following:
 
 ### ✅ **1. MVP User Stories**
-Write your **Minimum Viable Product (MVP)** user stories like this:
 
 > **As a** user, **I want** [feature].
 
