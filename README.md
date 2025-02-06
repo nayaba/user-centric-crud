@@ -37,10 +37,12 @@ Draw an **ERD** showing your app's **models** and how they **connect**.
 ### Skyrockit: **Applications are __embedded__ in a User model.**
 
 **MVP User Stories**
+- **As a guest, I want to be able to sign up.**
+- **As a user, I want to sign into my account.**
 - **As a user, I want to create an application for a job.**
+- **As a user, I want to see all my submitted applications.**
 - **As a user, I want to edit my application if I make a mistake.**
 - **As a user, I want to delete my application if I change my mind.**
-- **As a user, I want to see all my submitted applications.**
 
 **Example ERD**  
 <img width="406" alt="Screenshot 2025-02-06 at 4 01 10 PM" src="https://github.com/user-attachments/assets/9194d4a6-47b3-4bf1-9303-264fc207f5bb" />
@@ -50,10 +52,14 @@ Draw an **ERD** showing your app's **models** and how they **connect**.
 ### Open House: **Listings belong to a User.**
 
 **MVP User Stories**
+- **As a guest, I want to be able to sign up.**
+- **As a user, I want to sign into my account.**
 - **As a user, I want to create a listing to sell a house.**
+- **As a guest, I want to see everyone's listings.**
+- **As a user, I want to see all my listings.**
 - **As a user, I want to edit my listing details.**
 - **As a user, I want to delete a listing when the house is sold.**
-- **As a user, I want to see all my listings.**
+
 
 **Example ERD**  
 <img width="558" alt="Screenshot 2025-02-06 at 4 06 33 PM" src="https://github.com/user-attachments/assets/8a6eb739-2da6-4637-97fa-50b34a5fbc2b" />
@@ -62,23 +68,30 @@ Draw an **ERD** showing your app's **models** and how they **connect**.
 ---
 
 ## **Table of RESTful Routes**
-| HTTP Method | RESTful Route       | Controller Function |
-|------------|---------------------|---------------------|
-| GET        | `/resources`         | `index()`          |
-| GET        | `/resources/:id`     | `show()`           |
-| POST       | `/resources`         | `create()`         |
-| PUT        | `/resources/:id`     | `update()`         |
-| DELETE     | `/resources/:id`     | `destroy()`        |
+| HTTP Method| RESTful Route          | Controller Function       |
+|------------|------------------------|---------------------------|
+| GET        | `/resources`           | `myCtrl.index()`          |
+| GET        | `/resources/new`       | `myCtrl.newResource()`    |
+| POST       | `/resources`           | `myCtrl.create()`         |
+| GET        | `/resources/:id`       | `myCtrl.show()`           |
+| DELETE     | `/resources/:id`       | `myCtrl.destroy()`        |
+| GET        | `/resources/:id/edit`  | `myCtrl.edit()`           |
+| PUT        | `/resources/:id`       | `myCtrl.update()`         |
+
 
 Example: If your app tracks **applications**, replace `resources` with `applications`.
 
 ---
 
-## **Ideas for Simple CRUD Apps**
-- **Users & Applications** (Users apply for jobs)
-- **Users & Listings** (Users list items for sale)
-- **Users & Bookmarks** (Users save favorite articles)
-- **Users & Events** (Users create and manage events)
+## Project Ideas (Simple CRUD Apps)
+
+Here are some ideas for projects where a **user owns many** of **one resource**:
+
+- **Book Tracker:** Users save books to read.
+- **Task Manager:** Users create tasks.
+- **Movie Watchlist:** Users save watched movies.
+- **Users & Bookmarks:** Users save favorite articles
+- **Users & Events:** Users create and manage events
 
 ---
 
