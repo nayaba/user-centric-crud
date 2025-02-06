@@ -40,10 +40,13 @@ Draw an **ERD** showing your app's **models** and how they **connect**.
 - **As a user, I want to edit my listing details.**
 - **As a user, I want to delete a listing when the house is sold.**
 
+---
+
 ### Wireframes 🖥️
 
 <img width="1014" alt="Screenshot 2025-02-06 at 4 50 21 PM" src="https://github.com/user-attachments/assets/6588c834-a61c-440f-801b-930fc6bd844d" />
 
+---
 
 ### Example ERDS ↔️
 <img width="406" alt="Screenshot 2025-02-06 at 4 01 10 PM" src="https://github.com/user-attachments/assets/9194d4a6-47b3-4bf1-9303-264fc207f5bb" />
